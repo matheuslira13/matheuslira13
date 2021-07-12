@@ -12,7 +12,7 @@ Minha configuração do VScode
 - [**Tabnine**](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode): O Tabnine é uma extensão que usa de inteligência artificial para identificar o contexto do código e fornecer o autocomplete. Suporta diversas linguagens incluindo JavaScript e TypeScript. Existe uma versão paga mas também é possível usar a versão gratuita da extensão.
 Seu uso é totalmente opcional;
 - [**vscode-styled-components**](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components): Essa extensão fornece o syntax highlighting e intelliSense para a biblioteca [styled-components](https://styled-components.com/). Se você for utilizar essa biblioteca, o uso da extensão é bastante recomendado.
-
+[**Material Icon Themes**] É uma extensão que separa melhor os icones
 ## Configurações do VS Code
 
 As seguintes configurações podem ser acessadas no VS Code apertando `Ctrl + Shift + P` (ou `cmd +` , digitando `Preferences: Open Settings (JSON)` e entrando na opção encontrada:
